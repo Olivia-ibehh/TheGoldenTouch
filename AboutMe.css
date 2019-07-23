@@ -1,0 +1,72 @@
+
+body{
+  background-color:#F9DFEE;
+}
+.HeadingOne{
+  font-size: 40px;
+  display: flex;
+    justify-content: center;
+  color: #B5217A
+}
+.topnav{
+  background-color:#DA38A4;
+  overflow: hidden;
+}
+
+.topnav a{
+  float: left;
+  color: #f2f2f2;
+  font-family: 'Annie Use Your Telescope', cursive;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 50px;
+  display: flex;
+    justify-content: center;
+}
+
+.ErinHeading{
+  font-size: 25px;
+  font-family: 'Chelsea Market', cursive;
+    display: flex;
+      justify-content: center;
+    color: #F9067F;
+}
+
+.ErinPicture{
+  display: flex;
+    justify-content: center;
+}
+
+.ErinParagraph{
+  font-size: 20px
+}
+
+.OliviaHeading{
+  font-size: 25px;
+  font-family: 'Chelsea Market', cursive;
+    display: flex;
+      justify-content: center;
+    color: #F9067F;
+}
+
+.OliviaPicture{
+  display: flex;
+    justify-content: center;
+}
+
+.OliviaParagraph{
+  font-size: 20px
+}
+
+.AelynnHeading{
+  font-size: 25px;
+  font-family: 'Chelsea Market', cursive;
+    display: flex;
+      justify-content: center;
+    color: #F9067F;
+}
+
+.AelynnParagraph{
+  font-size: 20px
+}

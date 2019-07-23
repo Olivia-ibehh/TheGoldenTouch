@@ -1,0 +1,93 @@
+body {
+    background-color:#F9DFEE ;
+}
+
+.topnav{
+  background-color:#DA38A4;
+  overflow: hidden;
+}
+
+.topnav a{
+  float: left;
+  color: #f2f2f2;
+  font-family: 'Annie Use Your Telescope', cursive;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 50px;
+  display: flex;
+    justify-content: center;
+}
+
+
+.InfluencersHeading{
+  font-size: 40px;
+  display: flex;
+    justify-content: center;
+  color: #B5217A
+
+}
+
+.InfluencersParagraphOne{
+  font-size: 25px;
+  display: flex;
+    justify-content: center;
+}
+
+.InfluencersParagraphTwo{
+  font-size: 25px;
+  display: flex;
+    justify-content: center;
+}
+
+.JackieO{
+  display: flex;
+    justify-content: center;
+}
+
+.JackieAinaParagraphHeading{
+  font-size: 25px;
+  font-family: 'Chelsea Market', cursive;
+  display: flex;
+    justify-content: center;
+  color: #F9067F;
+}
+
+.JackiaAinaParagraph{
+  font-size: 18px;
+  display: flex;
+    justify-content: center;
+}
+
+.JACKIEAINASOCIALS{
+  font-size: 14px;
+  display: flex;
+    justify-content: center;
+  color: #F9067F;
+}
+
+.ALISSAASHLEYPIC{
+  display: flex;
+    justify-content: center;
+}
+
+.AlissaAshleyParagraghHeading{
+  font-size: 25px;
+  font-family: 'Chelsea Market', cursive;
+  display: flex;
+    justify-content: center;
+  color: #F9067F;
+}
+
+.AlissaAshleyParagragh{
+  font-size: 18px;
+  display: flex;
+    justify-content: center;
+}
+
+.AlissaAshleySocials{
+  font-size: 14px;
+  display: flex;
+    justify-content: center;
+  color: #F9067F;
+}

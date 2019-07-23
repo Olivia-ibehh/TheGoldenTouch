@@ -1,0 +1,54 @@
+body{
+  background-color:#F9DFEE;
+}
+.HeadingOne{
+  font-size: 40px;
+  display: flex;
+    justify-content: center;
+  color: #B5217A
+}
+.topnav{
+  background-color:#DA38A4;
+  overflow: hidden;
+}
+
+.topnav a{
+  float: left;
+  color: #f2f2f2;
+  font-family: 'Annie Use Your Telescope', cursive;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 50px;
+  display: flex;
+    justify-content: center;
+}
+
+.InspirationalLooksheading{
+  font-size: 25px;
+  font-family: 'Chelsea Market', cursive;
+    display: flex;
+      justify-content: center;
+    color: #F9067F;
+}
+
+.HeadingtwoILOne{
+  font-size: 16px;
+  display: flex;
+    justify-content: center;
+    color: #FFB6C1;
+}
+
+.HeadingtwoILTwo{
+  font-size: 16px;
+  display: flex;
+    justify-content: center;
+    color: #FFB6C1;
+}
+
+.HeadingtwoILThree{
+  font-size: 16px;
+  display: flex;
+    justify-content: center;
+    color: #FFB6C1;
+}
